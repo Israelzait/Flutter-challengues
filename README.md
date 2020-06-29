@@ -4,9 +4,6 @@ Here I share all **My Flutter Challenges** and source codes 😍
 
 Leave a ⭐ if you find this repo awesome 😊
 
-[![Github Follow](https://img.shields.io/github/followers/e200?style=social)](https://github.com/e200)
-[![Twitter Follow](https://img.shields.io/twitter/follow/iam_e200?style=social)](https://twitter.com/iam_e200)
-
 ## Challenges
 
 |[Flutter Desktop Media Player](flutter_desktop_media_player)|[Facebook Desktop](facebook_desktop)|
